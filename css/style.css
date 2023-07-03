@@ -199,7 +199,6 @@ main {
 .wallpaper {
     width: 100%;
     background-size: cover;
-    background-image: url(/images/wallpaper.png);
     background-position: center;
     flex: 1;
 }
